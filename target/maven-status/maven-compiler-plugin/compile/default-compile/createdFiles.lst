@@ -1,0 +1,4 @@
+model\GarbageCollectionModel.class
+Main.class
+controller\GarbageCollectionController.class
+view\GarbageCollectionView.class
